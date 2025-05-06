@@ -1,10 +1,10 @@
 {
   "name": "@xHiqhAim/AniwaveTB",
-  "appName": "H!Anime",
+  "appName": "AniwaveTB",
   "version": "1.0",
-  "description": "H!Anime with adblocker",
+  "description": "AniWave with adblocker",
   "packageType": "mods",
-  "websiteURL": "https://hianimez.to/home",
+  "websiteURL": "https://aniwave.se/home-anime",
   "main": "scripts/userScript.js",
   "author": "xHiqhAim",
   "keys": [
